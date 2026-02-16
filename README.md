@@ -19,3 +19,4 @@ This lab explores how the `this` keyword behaves in JavaScript event handlers.
 All exercises were tested in Chrome DevTools with no console errors.
 
 ## Youtube link:
+https://youtu.be/W6komBAwA8w
